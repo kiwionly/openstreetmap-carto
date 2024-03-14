@@ -72,7 +72,6 @@ to reload their databases, v3.x compatibility is not maintained.
 
 The v5.x series updates Lua tag transforms, linestring and polygon decisions have changed.
 
-
 There are over [500 open requests](https://github.com/gravitystorm/openstreetmap-carto/issues), some that have been open for years.
 These need reviewing and dividing into obvious fixes, or additional new features
 that need some cartographic judgement.
@@ -82,7 +81,7 @@ that need some cartographic judgement.
 There are many open-source stylesheets written for creating OpenStreetMap-based
 maps using Mapnik, many based on this project. Some alternatives are:
 
-* [OSM Bright](https://github.com/mapbox/osm-bright)
+* [OSM Bright](https://github.com/geofabrik/osm-bright)
 * [XML-based stylesheets](https://github.com/openstreetmap/mapnik-stylesheets)
 * [OpenStreetMap "FR" Carto](https://github.com/cquest/osmfr-cartocss)
 * [OpenStreetMap Carto German](https://github.com/giggls/openstreetmap-carto-de)
